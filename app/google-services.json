@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754539947138",
+    "firebase_url": "https://biscuit-dadf0.firebaseio.com",
+    "project_id": "biscuit-dadf0",
+    "storage_bucket": "biscuit-dadf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754539947138:android:68022562f37e3f3d",
+        "android_client_info": {
+          "package_name": "com.example.user.biscuit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754539947138-unka9n1vh377uks40f17uletch3cu02u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.biscuit",
+            "certificate_hash": "03c32b9e8e50402a211c396e01b35242af7594c8"
+          }
+        },
+        {
+          "client_id": "754539947138-sp2cj8tjih98nbrn3eqd2kfcmv5c81g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-O8e68kRhTXYVXR3NXCJHjdw4bBUa79M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754539947138-sp2cj8tjih98nbrn3eqd2kfcmv5c81g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
